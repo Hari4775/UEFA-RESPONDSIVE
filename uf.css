@@ -1,0 +1,370 @@
+
+.collapseone{margin-left:41%}
+
+.allsections{}
+
+.jjjjj{background-image:  url("https://img.uefa.com/imgml/uefacom/womensunder17/light_bg.svg");}
+
+.leftthee{background-image: url("https://img.uefa.com/imgml/uefacom/uel/light_bg.svg");}
+
+.image1left22{ width: 100%;
+}
+
+.lastttt{    width: 100%;}
+
+.loginmain{    margin-top: 8px;}
+
+.btn-secondary{width: 128px;
+    margin-left: -113px;
+    
+    margin-tossp: 10px;}
+.dropdown-toggle {
+    background-color: transparent;
+    
+    padding-left: 108px;
+    padding-top: 0px;
+}
+
+.show>.btn-secondary.dropdown-toggle {
+    color: #fff;
+     background-color:transparent;
+     border-color:transparent;
+}
+
+
+.show{    margin-top: -29px;
+    padding-left: 133px;
+    margin-left: 10px;}
+
+  
+.one{background: url(uefa-nav-bg-slim.jpg);
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.navbar-navone{    margin-left: -50%;
+}
+
+
+.imghead{   width: 105px;
+    margin-left: 36px;
+    /* margin-bottom: 0px; */
+  ;}
+.onnu {text-align: left;}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  li{display: inline;}
+
+
+ .ultwo {
+    overflow-x: auto;
+white-space:nowrap; 
+height: 1em;
+width: 100%;}
+
+
+
+
+.black{}
+.ucl{}
+
+.uel{    margin-left: -29%;
+  }
+
+.uecl{    margin-left: -59%;}
+
+.uwcol{    margin-left: -29%;}
+
+.uwnl{margin-left: -24%;
+}
+
+
+.horizontal-menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .horizontal-menu li {
+    margin-right: 20px;
+  }
+  
+  .horizontal-menu li:last-child {
+    margin-right: 0;
+  }
+  
+  .horizontal-menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+  .secondone{background-color: black;}
+  
+
+.uwcl{    margin-left: -44%;}
+
+.vl {
+    border-left: 3px solid white;
+    height: 14px;
+    margin-left: 85%;
+    margin-top: -9%;}
+.vl1{ border-left: 3px solid white;
+    height: 14px;
+    margin-left: 60%;
+    margin-top: -7%;
+}
+   
+
+.vl2{ border-left: 3px solid white;
+    height: 14px;
+    margin-left: 69%;
+    margin-top: -5%;}
+
+.vl3{border-left: 3px solid white;
+    height: 14px;
+    margin-left: 79%;    margin-top: -6%;}
+
+.vl4{border-left: 3px solid white;
+    height: 14px;
+    margin-left: 89%;
+    margin-top: -6%;}
+
+.vl5{border-left: 3px solid white;
+    height: 14px;
+    margin-left: 86%;
+    margin-top: -6%;}
+
+.vl6{border-left: 3px solid white;
+    height: 14px;
+    margin-left: 75%;
+    margin-top: -9%;}
+
+
+.image1{width: 100%;
+    z-index: 0;}
+
+.img1title {z-index: 1;
+    /* flex: auto; */
+   
+    font-size:3vw;
+    font-size: 173%;
+    padding-bottom: 21%;
+   
+    text-align: left;
+    font-family: unset;
+    font-weight: 700;
+}
+    
+
+    .image1desc{margin-top: -5%;
+        color: white;
+        margin-left: 1%;
+        font-weight: 600;}
+
+.card-img{    border-radius: 14px;
+}
+
+.sc{  
+      margin-bottom: 1.6rem!important;}
+
+      .hover-zoomin a {
+        display: none;
+        position: relative;
+        overflow: hidden; background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+
+      .hover-zoomin img {
+        
+        -webkit-transition: all 0.5s ease-in-out;
+        -moz-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        -ms-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
+      }
+
+      .featuredimg{position: relative;
+        border: ;
+        overflow: hidden;
+        
+       
+    }
+    .hello1{position: relative;
+       
+        overflow: hidden;}
+
+    .hello2 {position: relative;
+       
+        overflow: hidden}
+     .hello3{position: relative;
+       
+        overflow: hidden}   
+
+      .hover-zoomin:hover img {
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      }
+
+.logo1{    width: 5%;
+margin}
+.logo1text{margin-left: 7%;
+    color: black;
+    margin-top: -6%;}
+.buttonalleryone{
+   
+    margin-bottom: 4%;
+    color:blue;
+    font-weight: bold;
+    margin-left: 10%;
+    width: 80%;
+    border-radius: 9px;}
+
+.leftone{background-image: url("https://img.uefa.com/imgml/uefacom/futsalcup/light_bg.svg");}
+
+.may5{text-align: center;
+color: midnightblue;}
+
+.sportingcp{}
+
+.seemore{text-decoration: none;}
+.hr{margin-top: -1rem;
+    margin-bottom: 1rem;
+    border: 11;
+   
+    color: #696060;
+    width: 100%;
+    height: -1px;}
+
+.leftonebutton{       width: 80%;
+    margin-left: 10%;
+    margin-bottom: 7%;
+}
+
+body{background-color:whitesmoke;}
+
+.lefttwo{background-image: url("https://img.uefa.com/imgml/uefacom/ucl/light_bg.svg");}
+
+.teamimg{    height: 63%;}
+
+.club{}
+
+.footer{ background-image:  url("https://img.uefa.com/imgml/uefacom/elements/main-nav/uefa-nav-bg.jpg");}
+
+.footerhr{    border: 0;
+    width: 97%;
+    width: 100;
+    border-top: 0.4px solid black;
+    margin-left: 3%;
+    }
+
+    .compatition{margin-left: 3%;
+        color: darkblue;}
+.lifooter{    margin-left: 2%;
+    font-size: 100%;
+    font-weight: 400;}
+
+.tvguidefooter{margin-left: 5%;
+    color: darkslategrey;}
+
+.tvguidefoot{    margin-left: 3%;
+    color: darkslategrey;}
+
+.lf2{    margin-left: 12%;
+    text-align: left;
+    color: dimgrey;}
+
+.ylf2{ text-align: left;
+    color: dimgrey;}
+.ylf21{ color: black;
+text-align: left;
+font-weight: 500;}
+
+.wlf2{ text-align: left;
+    color: dimgrey;}
+.wlf21{text-align: left;
+color: black;
+font-weight: 500;}
+.lf21{margin-left: 13%;
+    
+    color: black;
+    font-weight: 500;}
+
+  .clubhr  {border: 0;
+    width: 25px;
+    width: 100;
+    border-top: 4px solid #153486;
+    margin-left: 13%;
+}
+.wclubhr{border: 0;
+    width: 25px;
+    width: 100;
+    margin-left: 0;
+    border-top: 4px solid #153486;}
+.yclubhr{  width: 25px;
+    width: 100;
+    margin-left: 0;
+    border-top: 4px solid #153486;}
+
+
+
+.insideuefafooter{margin-left: 3%;}
+
+.in{margin-left: 12%;}
+
+.visiteline{ border: 0;
+    width: 88%;
+    border-top: 0.5px solid black;
+    margin-left: 12%;}
+
+.HJJ{width: 100;
+margin-left: 12%;
+color: dimgray;}
+
+.lng{color: dimgray;}
+
+.vr{}
+
+.LANGhr{    border: 0;
+    width: 85%;
+    border-top: 2px solid #d0c8c8;
+    /* margin-left: 12%; */
+}
+
+
+.terms {    color: dimgray;}
+
+.squire{width: 32px;
+    margin-left: 0%;
+    border-style: solid;
+    border-color: #080808;}
+
+.logotwit{margin-left: 14%;}
+
+.squire2{    width: 35px;
+    margin-left: 0%;
+    border-style: ridge;
+    height: 32px;
+    border-color: #080808;}
+
+.fblogo{margin-left: 24%;
+color: black;}
+
+a {
+    color: #0b0b0c;
+    text-decoration: none;
+    background-color: transparent;
+ }
